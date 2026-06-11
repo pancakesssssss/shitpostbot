@@ -1,0 +1,26 @@
+[
+    {
+        "asset":   ["cheese.png"],
+        "command": "cheese", 
+        "help":    "Slap a cheese on an image.",
+		"context_menu": true
+    },
+	    {
+        "asset":   ["medal.png"],
+        "command": "medal",
+        "help":    "medal on an image.",
+		"context_menu": true
+    },
+	    {
+        "asset":   ["dumbass.png"],
+        "command": "dumbass",
+        "help":    "fell for it again.",
+		"context_menu": false
+    },
+	    {
+        "asset":   ["kiss.png"],
+        "command": "kiss",
+        "help":    "kisser.",
+		"context_menu": true
+    }
+]

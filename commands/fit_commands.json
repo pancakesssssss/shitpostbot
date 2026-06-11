@@ -1,0 +1,28 @@
+[
+    {
+        "command": "zamn",
+        "help": "ZAMN SHE 9",
+        "asset": "zamn.png",
+		"layer": "behind",
+        "context_menu": true,
+        "region": [
+            [501, 144],
+            [987, 144],
+            [987, 950],
+            [501, 950]
+        ]
+    },
+	{
+        "command": "MMI",
+        "help": "MMI pdf moments",
+        "asset": "mmi.png",
+		"layer": "behind",
+        "context_menu": false,
+        "region": [
+            [667, 188],
+            [1332, 188],
+            [1332, 1128],
+            [667, 1128]
+        ]
+    }
+]

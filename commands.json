@@ -1,0 +1,7 @@
+[
+    {
+        "asset":   ["cheese.png"],
+        "command": "cheese",
+        "help":    "Slap a cheese on an image."
+    }
+]
