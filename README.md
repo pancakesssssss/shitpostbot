@@ -1,11 +1,12 @@
 # ShitPostBot
 It's an unfinished recreation of the forgotten discord bot called ShitPostBot
 
-<img width="624" height="847" alt="Discord_jfgHy64Doj" src="https://github.com/user-attachments/assets/defbba16-89de-4497-a192-5ba684ec248c" />
+<img width="624" height="847" alt="Discord_jfgHy64Doj" src="https://github.com/user-attachments/assets/4606de34-adc5-4f65-8e5a-ad6a1234c051" />
 
 
 # Features
 - it makes memes, specifically images
+- Customizable, you can add more commands simply by editing the slap_commands.json and fit_commands.json
 
 # Limitations (will not be added)
 - Cannot do sounds shit
