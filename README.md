@@ -6,7 +6,7 @@ It's an unfinished recreation of the forgotten discord bot called ShitPostBot
 
 # Features
 - it makes memes, specifically images
-- Customizable, you can add more commands simply by editing the slap_commands.json and fit_commands.json
+- Customizable, you can add more commands simply by editing the slap_commands.json and fit_commands.json and adding the image templates to the assets folder
 
 # Limitations (will not be added)
 - Cannot do sounds shit
